@@ -1,0 +1,64 @@
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\appsettings.json
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Sliit.MTIT.Staff.exe
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Sliit.MTIT.Staff.deps.json
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Sliit.MTIT.Staff.runtimeconfig.json
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Sliit.MTIT.Staff.dll
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Sliit.MTIT.Staff.pdb
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.csproj.AssemblyReference.cache
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.AssemblyInfoInputs.cache
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.AssemblyInfo.cs
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.csproj.CoreCompileInputs.cache
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\staticwebassets\msbuild.Sliit.MTIT.Staff.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\staticwebassets\msbuild.build.Sliit.MTIT.Staff.props
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sliit.MTIT.Staff.props
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sliit.MTIT.Staff.props
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\scopedcss\bundle\Sliit.MTIT.Staff.styles.css
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.csproj.CopyComplete
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.dll
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\refint\Sliit.MTIT.Staff.dll
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.pdb
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.genruntimeconfig.cache
+C:\Users\maheshi\Desktop\SLIIT\4th year\MTIT\Assignments\Assignment 3\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\ref\Sliit.MTIT.Staff.dll
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Sliit.MTIT.Staff.exe
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Sliit.MTIT.Staff.deps.json
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Sliit.MTIT.Staff.runtimeconfig.json
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Sliit.MTIT.Staff.dll
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Sliit.MTIT.Staff.pdb
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.AssemblyInfo.cs
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\staticwebassets\msbuild.Sliit.MTIT.Staff.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\staticwebassets\msbuild.build.Sliit.MTIT.Staff.props
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sliit.MTIT.Staff.props
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sliit.MTIT.Staff.props
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\scopedcss\bundle\Sliit.MTIT.Staff.styles.css
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.csproj.CopyComplete
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.dll
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\refint\Sliit.MTIT.Staff.dll
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.pdb
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\Sliit.MTIT.Staff.genruntimeconfig.cache
+C:\Users\User\Downloads\Maheshi\Sliit.MTIT\Sliit.MTIT.Staff\obj\Debug\net6.0\ref\Sliit.MTIT.Staff.dll

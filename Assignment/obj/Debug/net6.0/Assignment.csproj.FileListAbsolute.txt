@@ -1,0 +1,160 @@
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\appsettings.json
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Assignment.exe
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Assignment.deps.json
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Assignment.dll
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Assignment.pdb
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment.props
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment.props
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment.props
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\scopedcss\bundle\Assignment.styles.css
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.csproj.CopyComplete
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.dll
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.pdb
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+C:\Users\HASINI\Desktop\4th yr 1st sem\MTIT\Labs\cloud assignment\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\ref\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Assignment.exe
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Assignment.deps.json
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Assignment.pdb
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment.props
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment.props
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment.props
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\scopedcss\bundle\Assignment.styles.css
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.csproj.CopyComplete
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.pdb
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\ref\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Assignment.exe
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Assignment.deps.json
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Assignment.pdb
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment.props
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment.props
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment.props
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\scopedcss\bundle\Assignment.styles.css
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.csproj.CopyComplete
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.pdb
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+C:\Users\User\Downloads\MTIT_Assignment_03_Microservices-Hasini\MTIT_Assignment_03\Assignment\obj\Debug\net6.0\ref\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\bin\Debug\net6.0\Assignment.exe
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\bin\Debug\net6.0\Assignment.deps.json
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\bin\Debug\net6.0\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\bin\Debug\net6.0\Assignment.pdb
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment.props
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment.props
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment.props
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\scopedcss\bundle\Assignment.styles.css
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\Assignment.csproj.CopyComplete
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\Assignment.pdb
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+C:\Users\User\Downloads\MTIT_Assignment03_FINAL\Assignment\obj\Debug\net6.0\ref\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\bin\Debug\net6.0\Assignment.exe
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\bin\Debug\net6.0\Assignment.deps.json
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\bin\Debug\net6.0\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\bin\Debug\net6.0\Assignment.pdb
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment.props
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment.props
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment.props
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\scopedcss\bundle\Assignment.styles.css
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\Assignment.csproj.CopyComplete
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\Assignment.pdb
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+C:\Users\User\Downloads\MTIT_Assignment03_MTIT-065\Assignment\obj\Debug\net6.0\ref\Assignment.dll

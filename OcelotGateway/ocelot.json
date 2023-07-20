@@ -1,0 +1,250 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5140"
+  },
+  "Routes": [
+    //Degree Microservice
+    {
+      "UpstreamPathTemplate": "/gateway/degree",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/degree",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5242
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/degree/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/degree/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5242
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/degree",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/degree",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5242
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/degree",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamPathTemplate": "/api/degree",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5242
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/degree/{id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/degree/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5242
+        }
+      ]
+    }, //Student Enrollment Microservice
+    {
+      "UpstreamPathTemplate": "/gateway/studentEnrollment",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/studentEnrollment",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5267
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/studentEnrollment/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/studentEnrollment/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5267
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/studentEnrollment",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/studentEnrollment",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5267
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/studentEnrollment",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamPathTemplate": "/api/studentEnrollment",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5267
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/studentEnrollment/{id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/studentEnrollment/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5267
+        }
+      ]
+    }, //Assignment Microservice
+    {
+      "UpstreamPathTemplate": "/gateway/assignment",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/assignment",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5176
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/assignment/{Id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/assignment/{Id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5176
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/assignment",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/assignment",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5176
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/assignment",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamPathTemplate": "/api/assignment",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5176
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/assignment/{Id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/assignment/{Id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5176
+        }
+      ]
+    }, //Staff Microservices
+    {
+      "UpstreamPathTemplate": "/gateway/staff",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/staff",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5170
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/staff/{Id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/staff/{Id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5170
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/staff",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/staff",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5170
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/staff",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamPathTemplate": "/api/staff",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5170
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/staff/{Id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/staff/{Id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5170
+        }
+      ]
+    }
+
+  ]
+
+}
