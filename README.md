@@ -23,9 +23,15 @@ To set up and run the University Management System, ensure you have the followin
 -NET Core SDK
 -Visual Studio 2019/2022 Community Edition (or any compatible IDE)
 
-01. Clone the repository to your local machine using the following command:
-    ```git clone https://github.com/HasiniArambegama/Augmented_Reality_Project.git```
+01. Clone this repository to your local machine:
+    ```git clone https://github.com/HasiniArambegama/SwaggerAPI_OcelotAPI_Gateway_Project.git```
 
-02. Install the required dependencies and tools, as specified in the project documentation.
-03. Launch Visual Studio Code and open the project folder to start exploring the codebase and making modifications.
+02. Open the project in Visual Studio or your preferred IDE.
+03. Build and compile the solution.
+04. Run the application, and you're ready to explore the University Management System!
+
+### Contact
+For any questions, suggestions, or support related to the project, please feel free to contact the project maintainers or open an issue on the repository.
+
+Let's revolutionize university management with the University Management System - .NET Core, Swagger, and Ocelot API Gateway! Happy coding!
    
